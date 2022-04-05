@@ -14,6 +14,6 @@
 ###### 4. Gesture Classification
 
 # References
-##### [1] Yang, J. and Xu, Y. (1994). “Hidden markov model for gesture recogni- tion.
+##### [1] Yang, J. and Xu, Y. (1994). “Hidden markov model for gesture recognition.
 ##### [2] Lin, H.-I., Hsu, M.-H., and Chen,W.-K. (2014). “Human hand gesture recognition using a convolution neural network.” 2014 IEEE International Conference on Automation Science and Engineering (CASE), 1038–1043.
-##### [3] Ziaie, P., Muller, T., Foster, M. E., and Knoll, A. (2008). “A naive bayes classifier with distance weighting for hand-gesture recognition.” Com- puter Society of Iran Computer Conference, 308–315.
+##### [3] Ziaie, P., Muller, T., Foster, M. E., and Knoll, A. (2008). “A naive bayes classifier with distance weighting for hand-gesture recognition.” Computer Society of Iran Computer Conference, 308–315.
